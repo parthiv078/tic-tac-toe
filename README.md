@@ -1,14 +1,22 @@
 A simple and fun Tic-Tac-Toe (also known as Noughts and Crosses) game built using Python and Tkinter. This 2-player game runs on a graphical interface and allows players to compete by taking turns.
 
+
 🧩 Features:
 
 ✅ Clickable 3x3 grid UI
+
 🔄 Alternate turns for X and O
+
 🏆 Win detection for all directions
+
 🤝 Draw detection if no winner after 9 moves
+
 🔁 "Reset Game" option from the menu
+
 ⚠️ Error messages if user clicks a taken cell
+
 🖥️ Clean and simple GUI using built-in tkinter
+
 
 📦 Technologies Used:
 
@@ -17,6 +25,7 @@ A simple and fun Tic-Tac-Toe (also known as Noughts and Crosses) game built usin
 2: Tkinter GUI toolkit
 
 3: Messagebox for alerts and game results
+
 
 ▶️ How to Run:
 
@@ -27,6 +36,7 @@ A simple and fun Tic-Tac-Toe (also known as Noughts and Crosses) game built usin
 3: Run the script using:
 
    "python tictactoe.py"
+
 
 📌 Possible Future Improvements:
 
